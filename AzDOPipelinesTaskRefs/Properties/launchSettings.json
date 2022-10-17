@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TaskReferenceParser": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Code\\Hymans-DSE false"
+    }
+  }
+}
